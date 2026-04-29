@@ -1,6 +1,7 @@
 """
 코스피/코스닥 투자자별 매매동향 조회 및 Google Sheets 업로드
 데이터 출처: KRX (pykrx)  |  단위: 억원  |  최근 7 영업일
+claude-review 자동 리뷰 테스트
 """
 
 import json
