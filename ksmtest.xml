@@ -4,4 +4,8 @@
   <exercise>
     <checked>false</checked>
   </exercise>
+  <close-button>
+    <label>닫기</label>
+    <action>close</action>
+  </close-button>
 </daily-log>
