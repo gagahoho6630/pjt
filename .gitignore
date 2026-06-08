@@ -1,0 +1,12 @@
+# Excel/Office 임시 잠금 파일
+~$*
+*.tmp
+
+# 이번 저장소 대상이 아닌 파일 (COG / Water Sealed 등)
+COG_WaterSeal_Utype_계산서.xlsx
+COG_WaterSeal_계산서.docx
+COG_WaterSeal_계산서_1780mmAq.docx
+Water Sealed Valve.docx
+make_cog_waterseal_1780.py
+make_cog_waterseal_doc.py
+make_utype_excel.py
